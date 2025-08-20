@@ -200,5 +200,3 @@ For any issues or suggestions, feel free to contact [ayushrai.cse@gmail.com].
 - The **energy matrix calculation** and **seam removal** are now distributed across available CPU cores to ensure faster image resizing.
 
 ---
-
-This should now make the OpenMP optimization clear after explaining the basic seam removal process, emphasizing how it improves the performance.
